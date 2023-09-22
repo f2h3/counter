@@ -1,0 +1,28 @@
+/* h1 {
+    text-align: center;
+}
+#addButton {
+    float: right;
+}
+
+button {
+    display: flex;
+
+} */
+
+body {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-block: 20px;
+}
+
+button {
+    background-color: rgb(27, 146, 154);
+    padding: 5px 10px;
+    border-radius: 9px;
+    border: 1px solid #ccc;
+    margin-left: 8px;
+}
